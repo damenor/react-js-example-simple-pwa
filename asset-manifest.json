@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-js-example-simple-pwa/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-js-example-simple-pwa/static/js/main.68044802.chunk.js",
+    "main.js.map": "/react-js-example-simple-pwa/static/js/main.68044802.chunk.js.map",
+    "runtime-main.js": "/react-js-example-simple-pwa/static/js/runtime-main.7f0e7082.js",
+    "runtime-main.js.map": "/react-js-example-simple-pwa/static/js/runtime-main.7f0e7082.js.map",
+    "static/js/2.a5dfdef6.chunk.js": "/react-js-example-simple-pwa/static/js/2.a5dfdef6.chunk.js",
+    "static/js/2.a5dfdef6.chunk.js.map": "/react-js-example-simple-pwa/static/js/2.a5dfdef6.chunk.js.map",
+    "index.html": "/react-js-example-simple-pwa/index.html",
+    "precache-manifest.6542126ce316050a36feb878ee936bab.js": "/react-js-example-simple-pwa/precache-manifest.6542126ce316050a36feb878ee936bab.js",
+    "service-worker.js": "/react-js-example-simple-pwa/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-js-example-simple-pwa/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a5dfdef6.chunk.js.LICENSE.txt": "/react-js-example-simple-pwa/static/js/2.a5dfdef6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-js-example-simple-pwa/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f0e7082.js",
+    "static/js/2.a5dfdef6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.68044802.chunk.js"
+  ]
+}
